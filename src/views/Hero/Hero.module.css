@@ -1,0 +1,28 @@
+.container {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero {
+  display: flex;
+  align-items: flex-end;
+}
+
+.title {
+  font-size: 6.2125rem;
+  margin: 0px;
+  line-height: 1em;
+}
+
+.subtitle {
+  font-size: 1.1667rem;
+  margin-right: 32px;
+  margin-bottom: 1.1em;
+}
